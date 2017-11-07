@@ -21,7 +21,8 @@ nav ul {
 }
 
 nav ul li {
-  display: 10px;
+  display: inline;
+  margin-right: 10px;
 }
 
 nav a {
